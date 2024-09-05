@@ -1,11 +1,11 @@
 
 **About Me:**
 - 👤 Muhammad Rameez
-- 📚 Education: Currently in second semester of Software Engineering
+- 📚 Education: Currently in third semester of Software Engineering
 
 **Programming Focus:**
 - 💻 Languages: C++ , Python
-- 🎯 Specialization: Object-oriented programming
+- 🎯 Specialization: Object-oriented programming, Machine Learning, Data Structures & Algorithms
 
 **Goals:**
 - 🌱 Learning: Constantly exploring new concepts and challenges
