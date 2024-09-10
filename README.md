@@ -24,4 +24,5 @@
 - 🚀 Let's embark on this coding adventure together!
 - 🤝 Connect with me as we explore the endless possibilities of software engineering.
 
-![snake gif](https://github.com/PatheticUser/PatheticUser/blob/output/github-contribution-grid-snake.gif)
+![snake gif](https://raw.githubusercontent.com/PatheticUser/PatheticUser/output/github-contribution-grid-snake.gif)
+
