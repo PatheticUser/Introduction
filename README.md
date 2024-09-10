@@ -1,3 +1,4 @@
+![MasterHead](https://qrangers.com/wp-content/uploads/2021/09/Banner-Introduction-to-3D-Animation.png)
 
 **About Me:**
 - 👤 Muhammad Rameez
@@ -41,6 +42,7 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=patheticuser&" alt="patheticuser" /></p>
 
+<img alt="Coding" width="400" src="https://media.licdn.com/dms/image/v2/C4E12AQHhfpP2slLoXw/article-cover_image-shrink_720_1280/article-cover_image-shrink_720_1280/0/1578791250559?e=1731542400&v=beta&t=vnrvmrEz4YQzidZv2NRAqXktnb0P5cYi5pUdKw6mXg8" style="float: right;">
 
 ![snake gif](https://raw.githubusercontent.com/PatheticUser/PatheticUser/output/github-snake-dark.svg)
 
