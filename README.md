@@ -25,6 +25,10 @@
 - 🚀 Let's embark on this coding adventure together!
 - 🤝 Connect with me as we explore the endless possibilities of software engineering.
 
+
+<img alt="Coding" width="400" src="https://media.licdn.com/dms/image/v2/C4E12AQHhfpP2slLoXw/article-cover_image-shrink_720_1280/article-cover_image-shrink_720_1280/0/1578791250559?e=1731542400&v=beta&t=vnrvmrEz4YQzidZv2NRAqXktnb0P5cYi5pUdKw6mXg8" style="float: right;">
+
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/muhammad rameez" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="muhammad rameez" height="30" width="40" /></a>
@@ -41,8 +45,6 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=patheticuser&show_icons=true&locale=en" alt="patheticuser" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=patheticuser&" alt="patheticuser" /></p>
-
-<img alt="Coding" width="400" src="https://media.licdn.com/dms/image/v2/C4E12AQHhfpP2slLoXw/article-cover_image-shrink_720_1280/article-cover_image-shrink_720_1280/0/1578791250559?e=1731542400&v=beta&t=vnrvmrEz4YQzidZv2NRAqXktnb0P5cYi5pUdKw6mXg8" style="float: right;">
 
 ![snake gif](https://raw.githubusercontent.com/PatheticUser/PatheticUser/output/github-snake-dark.svg)
 
