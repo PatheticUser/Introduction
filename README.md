@@ -1,31 +1,22 @@
-![MasterHead](https://qrangers.com/wp-content/uploads/2021/09/Banner-Introduction-to-3D-Animation.png)
+![Coder GIF](https://user-images.githubusercontent.com/90236635/232446433-d5540fa2-fe28-4bb8-b929-cdb51fe61336.gif)
 
-**About Me:**
-- 👤 Muhammad Rameez
-- 📚 Education: Currently in third semester of Software Engineering
+<div >
+<h1> <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Man%20Astronaut.png" alt="Man Astronaut" width="60" height="60" />ABOUT ME</h1>
+ </div>
+ 
+ 
+- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20activities/Ninja%20Medium-Light%20Skin%20Tone.png" alt="Ninja Medium-Light Skin Tone" width="25" height="25" /> Proficient in C++ with a strong focus on machine learning, including extensive experience with frameworks like TensorFlow and Keras. Skilled in applying advanced algorithms and techniques to solve complex problems and drive data-driven insights.
 
-**Programming Focus:**
-- 💻 Languages: C++, Python
-- 🎯 Specialization: Object-oriented programming, Machine Learning, Data Structures & Algorithms
+- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" alt="Rocket" width="25" height="25" /> Proficient in **Machine Learning** and **Data Structures**
 
-**Goals:**
-- 🌱 Learning: Constantly exploring new concepts and challenges
-- 🚀 Growth: Striving for mastery in software development
-- 🤝 Collaboration: Eager to connect and collaborate with fellow enthusiasts
+- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Heart%20Hands%20Light%20Skin%20Tone.png" alt="Heart Hands Light Skin Tone" width="25" height="25" /> Exploring and contributing to open-source projects has been an enjoyable learning experience.
 
-**Interests:**
-- 🔬 Technology: Passionate about diving into diverse areas of technology
-- 🧪 Exploration: Experimenting with different programming paradigms and frameworks
+- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Man%20Technologist.png" alt="Man Technologist" width="25" height="25" /> I’m currently learning **Data Structures & Algorithms**
 
-**Mission:**
-- 📝 Documenting Progress: Sharing insights and documenting coding journey
-- 🤝 Collaboration: Open to collaboration and eager to learn from others
+- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Bullseye.png" alt="Bullseye" width="25" height="25" /> Goal: **Exploring every aspect of machine learning to deepen my understanding and drive innovation.**
 
-**Join Me:**
-- 🚀 Let's embark on this coding adventure together!
-- 🤝 Connect with me as we explore the endless possibilities of software engineering.
+- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/E-Mail.png" alt="E-Mail" width="25" height="25" /> How to reach me **rameezalipacific@gmail.com**
 
-<img alt="Coding" width="400" src="https://media.licdn.com/dms/image/v2/C4E12AQHhfpP2slLoXw/article-cover_image-shrink_720_1280/article-cover_image-shrink_720_1280/0/1578791250559?e=1731542400&v=beta&t=vnrvmrEz4YQzidZv2NRAqXktnb0P5cYi5pUdKw6mXg8" style="float: right; margin-left: 20px;">
 
 ### Connect with me:
 <p>
@@ -45,10 +36,5 @@
 <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a>
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=patheticuser&show_icons=true&locale=en&layout=compact" alt="patheticuser" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=patheticuser&show_icons=true&locale=en" alt="patheticuser" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=patheticuser&" alt="patheticuser" /></p>
 
 ![snake gif](https://raw.githubusercontent.com/PatheticUser/PatheticUser/output/github-snake-dark.svg)
