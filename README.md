@@ -1,4 +1,4 @@
-![Coder GIF](https://miro.medium.com/v2/resize:fit:1400/1*yZ41P3YdMYMiyFPAPrzyGw.gif)
+![Coder GIF](https://media2.giphy.com/media/eljCVpMrhepUSgZaVP/giphy.gif?cid=6c09b952u5mfccc2b6bs6lz527oe9snzxn3f39ch075ywkhw&ep=v1_internal_gif_by_id&rid=giphy.gif&ct=g)
 
 <div >
 <h1> <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Man%20Astronaut.png" alt="Man Astronaut" width="60" height="60" />Muhammad Rameez</h1>
