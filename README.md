@@ -20,7 +20,8 @@
 
 - <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Laptop.png" alt="Laptop" width="25" height="25" /> Check out my Portfolio: **https://portfolio-seven-flame-91.vercel.app**
 
-</div>
+---
+
 ### Connect with me:
 <p>
 <a href="https://linkedin.com/in/muhammadrameez" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="muhammad rameez" height="30" width="40" /></a>
@@ -29,7 +30,7 @@
 <a href="https://auth.geeksforgeeks.org/user/rameezali7s20" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="rameezali7s20" height="30" width="40" /></a>
 </p>
 
-</div>
+---
 
 ### Languages and Tools:
 <p>
