@@ -1,4 +1,4 @@
-![Coder GIF]([https://github.com/PatheticUser/Introduction/blob/main/giphy.gif](https://github.com/PatheticUser/Introduction/blob/main/.github/workflows/analyticsinsight_import_wp-content_uploads_2020_09_GIF.gif))
+![Coder GIF](https://github.com/PatheticUser/Introduction/blob/main/analyticsinsight_import_wp-content_uploads_2020_09_GIF.gif)
 
 <div >
 <h1> <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Man%20Astronaut.png" alt="Man Astronaut" width="60" height="60" />Muhammad Rameez</h1>
