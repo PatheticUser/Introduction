@@ -6,7 +6,8 @@
 
 - <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20activities/Ninja%20Medium-Light%20Skin%20Tone.png" alt="Ninja Medium-Light Skin Tone" width="25" height="25" /> Proficient in C++ with a strong focus on machine learning, including extensive experience with frameworks like TensorFlow and Keras. Skilled in applying advanced algorithms and techniques to solve complex problems and drive data-driven insights.
 
-- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" alt="Rocket" width="25" height="25" /> Proficient in **Machine Learning** and **Data Structures**
+- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20activities/Man%20Technologist%20Medium-Light%20Skin%20Tone.png" alt="Man Technologist Light Skin" width="25" height="25" /> I’m currently learning **Data Structures & Algorithms**
+
 
 - <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Heart%20Hands%20Light%20Skin%20Tone.png" alt="Heart Hands Light Skin Tone" width="25" height="25" /> Dedicating most of my time to **Open-Source Projects**.
 
