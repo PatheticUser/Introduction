@@ -1,10 +1,7 @@
-![Coder GIF](https://github.com/PatheticUser/Introduction/blob/main/analyticsinsight_import_wp-content_uploads_2020_09_GIF.gif)
-
-<div >
+<div>
 <h1> <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Man%20Astronaut.png" alt="Man Astronaut" width="60" height="60" />Muhammad Rameez</h1>
- </div>
- 
- 
+</div>
+
 - <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20activities/Ninja%20Medium-Light%20Skin%20Tone.png" alt="Ninja Medium-Light Skin Tone" width="25" height="25" /> Proficient in C++ with a strong focus on machine learning, including extensive experience with frameworks like TensorFlow and Keras. Skilled in applying advanced algorithms and techniques to solve complex problems and drive data-driven insights.
 
 - <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" alt="Rocket" width="25" height="25" /> Proficient in **Machine Learning** and **Data Structures**
@@ -17,6 +14,8 @@
 
 - <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/E-Mail.png" alt="E-Mail" width="25" height="25" /> Reach me: **rameezalipacific@gmail.com**
 
+### Explore My Work:
+<p>Check out my portfolio to learn more about my projects and expertise: <a href="https://portfolio-seven-flame-91.vercel.app/" target="_blank">Portfolio</a></p>
 
 ### Connect with me:
 <p>
@@ -35,6 +34,5 @@
 <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a>
 <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a>
 </p>
-
 
 ![snake gif](https://raw.githubusercontent.com/PatheticUser/PatheticUser/output/github-snake.svg)
