@@ -28,7 +28,9 @@
 <a href="https://www.leetcode.com/muhammadrameez" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="muhammad rameez" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/rameezali7s20" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="rameezali7s20" height="30" width="40" /></a>
 </p>
+
 </div>
+
 ### Languages and Tools:
 <p>
 <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a>
