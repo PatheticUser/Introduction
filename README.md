@@ -16,8 +16,7 @@
 
 - <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/E-Mail.png" alt="E-Mail" width="25" height="25" /> Reach me: **rameezalipacific@gmail.com**
 
-### Explore My Work:
-<p>Check out my portfolio to learn more about my projects and expertise: <a href="https://portfolio-seven-flame-91.vercel.app/" target="_blank">Portfolio</a></p>
+- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Globe%20Showing%20Europe-Africa.png" alt="Globe" width="25" height="25" /> Check out my **Portfolio**: [portfolio link](https://portfolio-seven-flame-91.vercel.app/)
 
 ### Connect with me:
 <p>
