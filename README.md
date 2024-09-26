@@ -1,4 +1,4 @@
-![Coder GIF](https://github.com/PatheticUser/Introduction/blob/main/analyticsinsight_import_wp-content_uploads_2020_09_GIF.gif)
+![Coder GIF](https://miro.medium.com/v2/resize:fit:1360/1*zVnWJtyGOX_kUIDm6ccCfQ.gif)
 
 <div>
 <h1> <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Astronaut%20Light%20Skin%20Tone.png" alt="Astronaut Light Skin Tone" width="60" height="60" />Muhammad Rameez</h1>
