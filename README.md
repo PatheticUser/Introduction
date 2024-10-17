@@ -45,4 +45,4 @@
 ---
 
 
-![snake gif](https://raw.githubusercontent.com/PatheticUser/PatheticUser/output/github-snake.dark.svg)
+![snake gif](https://raw.githubusercontent.com/PatheticUser/PatheticUser/output/github-snake.svg)
