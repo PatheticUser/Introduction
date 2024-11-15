@@ -9,9 +9,9 @@
 
 - <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" alt="Rocket" width="25" height="25" /> Proficient in **Machine Learning** and **Data Structures**
 
-- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Heart%20Hands%20Light%20Skin%20Tone.png" alt="Heart Hands Light Skin Tone" width="25" height="25" /> Dedicating most of my time to **Open-Source Projects**.
+- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Heart%20Hands%20Light%20Skin%20Tone.png" alt="Heart Hands Light Skin Tone" width="25" height="25" /> Dedicating most of my time to **Learning Something New**.
 
-- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20activities/Man%20Lifting%20Weights%20Light%20Skin%20Tone.png" alt="Man Lifting Weights Light Skin Tone" width="25" height="25" /> I’m currently learning **Data Structures & Algorithms**
+- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20activities/Man%20Lifting%20Weights%20Light%20Skin%20Tone.png" alt="Man Lifting Weights Light Skin Tone" width="25" height="25" /> I’m currently learning **Termux**
 
 
 - <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Bullseye.png" alt="Bullseye" width="25" height="25" /> Goal: **Exploring every aspect of machine learning to deepen my understanding and drive innovation.**
