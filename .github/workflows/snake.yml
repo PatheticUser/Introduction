@@ -21,11 +21,9 @@ jobs:
         id: snake-gif
         with:
           github_user_name: ${{ github.repository_owner }}
-          # Replace with your GitHub personal access token
-          github_token: ${{ secrets.GITHUB_TOKEN }}
-          # Customize the snake appearance (optional)
+          github_token: ${{ secrets.GITHUB_TOKEN }}  # ✅ Token correctly placed
           color_snake: green
-          color_dots: #bfd6f6,#8dbdff,#64a1f4,#4b91f1,#3c7dd9
+          color_dots: "#bfd6f6,#8dbdff,#64a1f4,#4b91f1,#3c7dd9"
           show_stats: true
 
       - name: Push new files to the output branch
@@ -33,7 +31,6 @@ jobs:
         with:
           target_branch: output
           build_dir: dist
-          commit_message: Update snake animations
+          commit_message: "Update snake animations"
         env:
-  GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}  # ✅ Correct indentation
